@@ -1,0 +1,53 @@
+.header{
+	height: 100px;
+	background-color: yellow;
+	font-size: 50px;
+	text-align: center; 
+}
+
+.container{
+
+}
+.blog{
+	float: left ;
+	width: 45%;
+	height: 150px;
+	font-size: 50px;
+	background-color: green;
+
+}
+.contact{
+	float: right ;
+	width: 55%;
+	height: 150px;
+	font-size: 50px;
+	background-color: red;
+
+}
+.wrapper{}
+.box{
+	float: left;
+	width: 25%;
+	height: 200px;
+	font-size: 50px;
+}
+.blue{
+	background-color: blue;
+}
+.brown{
+	background-color: brown;
+}
+.aqua{
+	background-color: aqua;
+}
+.darkgreen{
+	background-color: darkgreen;
+} 
+
+.footer{
+	height: 150px;
+	background-color: pink;
+	font-size: 50px;
+	text-align: center; 
+	clear: both;
+}
